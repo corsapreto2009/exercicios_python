@@ -1,5 +1,5 @@
-a = int(input("me diga a altura da sua parede em metros (não é necessário colocar m ao lado. somente o número.)"))
-l = int(input("agora me dig a largura de sua parede."))
+a = int(input("me diga a altura da sua parede em metros (não é necessário colocar m ao lado. somente o número.) "))
+l = int(input("agora me dig a largura de sua parede. "))
 
 area = a * l
 tinta = area / 2
